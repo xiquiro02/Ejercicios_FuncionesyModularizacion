@@ -1,7 +1,7 @@
 // Importamos las funciones calcularPromedio, esNumeroValido, estadoAprobacion y mensajeFinalAcademico desde el archivo CalculoPromedio.js ubicado en la carpeta modulos
 import { calcularPromedio, esNumeroValido, estadoAprobacion, mensajeFinalAcademico } from "../modulos/ejercicio06.js";
 
-export const ejercicio6 = () => 
+export const ejer6 = () => 
 {
     // Pedimos al usuario que ingrese el nombre del estudiante
     const nombre = prompt("Nombre del estudiante:");

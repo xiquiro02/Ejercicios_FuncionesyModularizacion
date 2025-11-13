@@ -1,7 +1,7 @@
 // Importamos las funciones par_impar, positivo_negativo y es_primo desde el archivo par_impar_postivo_negativo_primo.js ubicado en la carpeta modulos
 import { par_impar, positivo_negativo, es_primo } from "../modulos/ejercicio09.js";
 
-export const ejercicio9 = () => 
+export const ejer9 = () => 
 {
     // Pedimos al usuario que digite un numero y lo convertimos a tipo numerico con Number()
     let num = Number(prompt("Digite su numero:"));

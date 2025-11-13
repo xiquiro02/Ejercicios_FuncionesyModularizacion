@@ -1,7 +1,7 @@
 // Importamos la funcion Calcularpromedio desde el archivo calcularpromedio.js ubicado en la carpeta modulos
-import { Calcularpromedio } from "../modulos/ejercicio02.js";
+import { calcularPromedio } from "../modulos/ejercicio02.js";
 
-export const ejercicio2 = () => 
+export const ejer2 = () => 
 {
     // Pedimos al usuario que ingrese la primera nota y la convertimos a numero decimal
     let not1 = parseFloat(prompt("Ingrese la nota 1: "));

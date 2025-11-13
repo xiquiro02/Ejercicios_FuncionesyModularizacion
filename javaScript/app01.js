@@ -1,7 +1,7 @@
 //se importa la funcion que esta dentro de la carpeta modulos y el archivo
 import {saludoPersonalizado} from '../modulos/ejercicio01.js';
 
-export const ejercicio1 = () => 
+export const ejer1 = () => 
 {
     //se piden los datos al usuario
     let nomb = prompt("Ingrese su nombre: ");

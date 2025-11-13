@@ -1,15 +1,15 @@
 //Importaciones de los modulos 
 
-import { ejercicio1 } from "./javaScript/app01.js";
-import { ejercicio2 } from "./javaScript/app02.js";
-import { ejercicio3 } from "./javaScript/app03.js";
-import { ejercicio4 } from "./javaScript/app04.js";
-import { ejercicio5 } from "./javaScript/app05.js";
-import { ejercicio6 } from "./javaScript/app06.js";
-import { ejercicio7 } from "./javaScript/app07.js";
-import { ejercicio8 } from "./javaScript/app08.js";
-import { ejercicio9 } from "./javaScript/app09.js";
-import { ejercicio10 } from "./javaScript/app10.js";
+import { ejer1 } from "./javaScript/app01.js";
+import { ejer2 } from "./javaScript/app02.js";
+import { ejer3 } from "./javaScript/app03.js";
+import { ejer4 } from "./javaScript/app04.js";
+import { ejer5 } from "./javaScript/app05.js";
+import { ejer6 } from "./javaScript/app06.js";
+import { ejer7 } from "./javaScript/app07.js";
+import { ejer8 } from "./javaScript/app08.js";
+import { ejer9 } from "./javaScript/app09.js";
+import { ejer10 } from "./javaScript/app10.js";
 
 const continuar = true
 
@@ -29,43 +29,43 @@ while (continuar){
 
     switch (opcion) {
         case 1:
-            ejercicio1();
+            ejer1();
             break;
 
         case 2:
-            ejercicio2();
+            ejer2();
             break;
 
         case 3:
-            ejercicio3();
+            ejer3();
             break;
 
         case 4:
-            ejercicio4();
+            ejer4();
             break;
 
         case 5:
-            ejercicio5();
+            ejer5();
             break;
         
         case 6:
-            ejercicio6();
+            ejer6();
             break;
 
         case 7:
-            ejercicio7();
+            ejer7();
             break;
 
         case 8:
-            ejercicio8();
+            ejer8();
             break;
 
         case 9:
-            ejercicio9();
+            ejer9();
             break;
 
         case 10:
-            ejercicio10();
+            ejer10();
             break;
 
         case 0:

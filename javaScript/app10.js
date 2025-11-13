@@ -1,7 +1,7 @@
 // Importamos las funciones suma, resta, multiplicacion, division, potencia y raizCuadrada desde el archivo Calculadora.js ubicado en la carpeta modulos
-import { suma, resta, multiplicacion, division, potencia, raizCuadrada } from "../modulos/ejercicio10";
+import { suma, resta, multiplicacion, division, potencia, raizCuadrada } from "../modulos/ejercicio10.js";
 
-export const ejercicio10 = () => 
+export const ejer10 = () => 
 {
     // Inicializamos la variable continuar en true para controlar el ciclo
     let continuar = true;

@@ -1,7 +1,7 @@
 // Importamos las funciones CalcularSubtotal, CalcularIva y CalcularTotal desde el archivo valortotal.js ubicado en la carpeta modulos
 import { CalcularSubtotal, CalcularIva, CalcularTotal } from "../modulos/ejercicio04.js";
 
-export const ejercicio4 = () =>
+export const ejer4 = () =>
 {
     // Pedimos al usuario que ingrese la cantidad de productos y convertimos el valor a entero
     let cantidad = parseInt(prompt("Ingrese la cantidad de productos: "));

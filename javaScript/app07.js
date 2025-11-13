@@ -1,7 +1,7 @@
 // Importamos las funciones depositar, retirarDinero y mostrarSaldo desde el archivo depositar_retirar_saldo.js ubicado en la carpeta modulos
 import { depositar, retirarDinero, mostrarSaldo } from "../modulos/ejercicio07.js";
 
-export const ejercicio7 = () => 
+export const ejer7 = () => 
 {
     // Inicializamos la variable saldo en 0
     let saldo = 0;

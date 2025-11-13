@@ -1,7 +1,7 @@
 // Importamos las funciones Subtotal, calculariva y Calculartotalconiva desde el archivo producto.js ubicado en la carpeta modulos
 import { Subtotal, calculariva, Calculartotalconiva } from "../modulos/ejercicio08.js";
 
-export const ejercicio8 = () => 
+export const ejer8 = () => 
 {
     // Pedimos al usuario el nombre del primer producto
     let nombre1 = prompt("Ingrese el nombre: ");
